@@ -21,7 +21,7 @@
             }
         },
         {
-            "name": "Win32",
+            "name": "Win31",
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:\\msys64\\usr\\**"
