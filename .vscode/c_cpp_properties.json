@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "C:\\msys64\\usr\\**",
-                "C:\\msys64\\usr\\include"
+                "C:\\msys64\\usr\\include\\**"
             ],
             "defines": [
                 "_DEBUG",
